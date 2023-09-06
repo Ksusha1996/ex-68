@@ -1,0 +1,15 @@
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\bin\Debug\net7.0\tab-68.exe
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\bin\Debug\net7.0\tab-68.deps.json
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\bin\Debug\net7.0\tab-68.runtimeconfig.json
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\bin\Debug\net7.0\tab-68.dll
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\bin\Debug\net7.0\tab-68.pdb
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.csproj.AssemblyReference.cache
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.AssemblyInfoInputs.cache
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.AssemblyInfo.cs
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.csproj.CoreCompileInputs.cache
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.dll
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\refint\tab-68.dll
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.pdb
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\tab-68.genruntimeconfig.cache
+D:\ДЗ. курсы программирования\С#\C#68\ex-68\tab-68\obj\Debug\net7.0\ref\tab-68.dll
